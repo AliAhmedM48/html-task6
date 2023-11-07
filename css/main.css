@@ -349,7 +349,7 @@ body:has(.chefs:target) li a[href="#chefs"]::before {
 }
 
 .home .container .home-text .btn-group {
-    background-color: lime;
+  
     display: flex;
     align-items: center;
     gap: 40px;
